@@ -23,3 +23,9 @@ O **AlexDog** é um jogo de plataforma desenvolvido com a biblioteca Pygame, ins
 
 - **Barra de Espaço**: Pula
 - **Shift Esquerdo**: Atira
+
+## Tela inicial do Jogo
+![Tela inicial](docs/images/menu-alexdog.png)
+
+## Demonstração do Jogo (clique na tela)
+[![Demonstração do Jogo](docs/images/print-tela-alexdog.png)](https://youtu.be/QKrWAxAl2k4)
