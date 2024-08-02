@@ -2,16 +2,16 @@
 
 ## Objetivo do Projeto
 
-O **AlexDog** é um jogo de plataforma desenvolvido com a biblioteca Pygame, inspirada no T-Rex Game, onde o jogador controla um cão em um ambiente de plataforma, desviando de obstáculos (hidrantes e carteiros) e coletando ossos (que podem ser usados como munição para destruir obstáculos). O objetivo é alcançar a maior pontuação possível enquanto coleta moedas e evita colidir com os obstáculos.
+O **AlexDog** é um jogo de plataforma desenvolvido com a biblioteca Pygame, inspirada no T-Rex Game, onde o jogador controla um cão em um ambiente de plataforma, desviando de obstáculos (hidrantes e carteiros) e coletando ossos (que podem ser usados como munição para destruir obstáculos). O objetivo é alcançar a maior pontuação possível enquanto coleta ossos e evita colidir com os obstáculos.
 
 ## Principais Funcionalidades
 
-- **Movimento do Personagem**: O dinossauro pode saltar e dar um segundo pulo (double jump) para superar obstáculos.
-- **Armas**: O jogador pode disparar projéteis, usando moedas como recurso para a ação de tiro.
-- **Obstáculos**: Inclui cactos e grandes cactos que aparecem aleatoriamente e precisam ser evitados.
-- **Coleta de Moedas**: Moedas aparecem no cenário e são coletadas para aumentar a pontuação e permitir a compra de munição.
-- **Música e Efeitos Sonoros**: Música de fundo e sons de efeito para ações como pular, coletar moedas e disparar projéteis.
-- **Tela de Menu e Game Over**: Menus para iniciar o jogo e para quando o jogo termina, mostrando a pontuação e o número de moedas coletadas.
+- **Movimento do Personagem**: O cão pode saltar para superar obstáculos.
+- **Armas**: O jogador pode disparar projéteis, usando os ossos coletados como recurso para a ação de tiro.
+- **Obstáculos**: Inclui hidrantes e carteiros que aparecem aleatoriamente e precisam ser evitados.
+- **Coleta de Ossos**: Ossos aparecem no cenário e são coletadas para aumentar a pontuação e permitir a compra de munição.
+- **Música e Efeitos Sonoros**: Música de fundo e sons de efeito para ações como pular, coletar ossos e disparar projéteis.
+- **Tela de Menu e Game Over**: Menus para iniciar o jogo e para quando o jogo termina, mostrando a pontuação e o número de ossos coletadas.
 
 ## Tecnologias Utilizadas
 

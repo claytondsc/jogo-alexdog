@@ -23,16 +23,16 @@ background_speed = game_speed / 2
 clock = pygame.time.Clock()
 
 # Caminhos para arquivos de música e sons
-background_music = 'MEUS PROJETOS/alex-dog/assets/music/music.mp3'
-jump_sound_path = 'MEUS PROJETOS/alex-dog/assets/sounds/jump_sound.mp3'
-coin_sound_path = 'MEUS PROJETOS/alex-dog/assets/sounds/coin_sound.mp3'
-shoot_sound_path = 'MEUS PROJETOS/alex-dog/assets/sounds/shoot_sound.mp3'
-dino_image_path = 'MEUS PROJETOS/alex-dog/assets/images/dog.png'
-cactus_image_path = 'MEUS PROJETOS/alex-dog/assets/images/hidrante.png'
-big_cactus_image_path = 'MEUS PROJETOS/alex-dog/assets/images/carteiro.png'
-coin_image_path = 'MEUS PROJETOS/alex-dog/assets/images/osso.png'
-background_image_path = 'MEUS PROJETOS/alex-dog/assets/images/background.png'
-ground_image_path = 'MEUS PROJETOS/alex-dog/assets/images/ground.png'
+background_music = 'MEUS PROJETOS/jogo-alexdog/assets/music/music.mp3'
+jump_sound_path = 'MEUS PROJETOS/jogo-alexdog/assets/sounds/jump_sound.mp3'
+coin_sound_path = 'MEUS PROJETOS/jogo-alexdog/assets/sounds/coin_sound.mp3'
+shoot_sound_path = 'MEUS PROJETOS/jogo-alexdog/assets/sounds/shoot_sound.mp3'
+dino_image_path = 'MEUS PROJETOS/jogo-alexdog/assets/images/dog.png'
+cactus_image_path = 'MEUS PROJETOS/jogo-alexdog/assets/images/hidrante.png'
+big_cactus_image_path = 'MEUS PROJETOS/jogo-alexdog/assets/images/carteiro.png'
+coin_image_path = 'MEUS PROJETOS/jogo-alexdog/assets/images/osso.png'
+background_image_path = 'MEUS PROJETOS/jogo-alexdog/assets/images/background.png'
+ground_image_path = 'MEUS PROJETOS/jogo-alexdog/assets/images/ground.png'
 
 # Função para tocar a música
 def play_music():
